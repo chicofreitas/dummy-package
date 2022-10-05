@@ -1,0 +1,19 @@
+{
+    "name": "chicofreitas/dummy-pkg",
+    "description": "It is just an educational PHP package.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Chicofreitas\\DummyPkg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Prof. Chico Freitas",
+            "email": "chicoo.freitas84@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

@@ -1,11 +1,11 @@
 {
-    "name": "chicofreitas/dummy-pkg",
+    "name": "chicofreitas/dummy-package",
     "description": "It is just an educational PHP package.",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Chicofreitas\\DummyPkg\\": "src/"
+            "Chicofreitas\\DummyPackage\\": "src/"
         }
     },
     "authors": [
